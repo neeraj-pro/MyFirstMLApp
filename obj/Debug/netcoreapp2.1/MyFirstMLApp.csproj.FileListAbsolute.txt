@@ -1,0 +1,14 @@
+C:\Users\amngupta\source\repos\MyFirstMLApp\MyFirstMLApp\bin\Debug\netcoreapp2.1\MyFirstMLApp.deps.json
+C:\Users\amngupta\source\repos\MyFirstMLApp\MyFirstMLApp\bin\Debug\netcoreapp2.1\MyFirstMLApp.runtimeconfig.json
+C:\Users\amngupta\source\repos\MyFirstMLApp\MyFirstMLApp\bin\Debug\netcoreapp2.1\MyFirstMLApp.runtimeconfig.dev.json
+C:\Users\amngupta\source\repos\MyFirstMLApp\MyFirstMLApp\bin\Debug\netcoreapp2.1\MyFirstMLApp.dll
+C:\Users\amngupta\source\repos\MyFirstMLApp\MyFirstMLApp\obj\Debug\netcoreapp2.1\MyFirstMLApp.csprojAssemblyReference.cache
+C:\Users\amngupta\source\repos\MyFirstMLApp\MyFirstMLApp\obj\Debug\netcoreapp2.1\MyFirstMLApp.AssemblyInfoInputs.cache
+C:\Users\amngupta\source\repos\MyFirstMLApp\MyFirstMLApp\obj\Debug\netcoreapp2.1\MyFirstMLApp.AssemblyInfo.cs
+C:\Users\amngupta\source\repos\MyFirstMLApp\MyFirstMLApp\obj\Debug\netcoreapp2.1\MyFirstMLApp.genruntimeconfig.cache
+C:\Users\amngupta\source\repos\MyFirstMLApp\MyFirstMLApp\bin\Debug\netcoreapp2.1\Data\StockTest.csv
+C:\Users\amngupta\source\repos\MyFirstMLApp\MyFirstMLApp\bin\Debug\netcoreapp2.1\Data\StockTrain.csv
+C:\Users\amngupta\source\repos\MyFirstMLApp\MyFirstMLApp\bin\Debug\netcoreapp2.1\MyFirstMLApp.pdb
+C:\Users\amngupta\source\repos\MyFirstMLApp\MyFirstMLApp\obj\Debug\netcoreapp2.1\MyFirstMLApp.csproj.CoreCompileInputs.cache
+C:\Users\amngupta\source\repos\MyFirstMLApp\MyFirstMLApp\obj\Debug\netcoreapp2.1\MyFirstMLApp.dll
+C:\Users\amngupta\source\repos\MyFirstMLApp\MyFirstMLApp\obj\Debug\netcoreapp2.1\MyFirstMLApp.pdb
